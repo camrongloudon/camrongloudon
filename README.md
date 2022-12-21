@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/camron_glo" target="blank"><img src="https://img.shields.io/twitter/follow/camron_glo?logo=twitter&style=for-the-badge" alt="camron_glo" /></a> </p>
 
-- 🌱 I’m actively progressing my skills with **The Web Developer Bootcamp on Udemy**
+- 🌱 I’m actively improving my skills with **The Web Developer Bootcamp on Udemy** and solo projects.
 
 - I'm currently a student at **SBCS Global Learning Institute**
 
