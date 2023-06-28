@@ -1,8 +1,6 @@
 <h1 align="center">Hey, I'm Cam'ron</h1>
 <h3 align="center">I'm a passionate software developer learning new technoloy everyday!</h3>
 
-<p align="left"> <a href="https://twitter.com/camron_glo" target="blank"><img src="https://img.shields.io/twitter/follow/camron_glo?logo=twitter&style=for-the-badge" alt="camron_glo" /></a> </p>
-
 - 🌱 I'm currently learning Mandarin Chiense, always open to language partners, reach out to me on any social media platforms.
 
 - I'm currently a student at **SBCS Global Learning Institute**
@@ -21,7 +19,7 @@
 <a href="https://instagram.com/camron_glo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="camron_glo" height="30" width="40" /></a>
 <a href="https://medium.com/@cam'ron gloudon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cam'ron gloudon" height="30" width="40" /></a>
 
-<a href="" target="blank"><img align="center" src="https://i.ibb.co/TTccSCF/1687982917383.jpg" alt="1687982917383" border="0" alt="SpaceGandolf" height="40" width="40" />
+<a href="" target="blank"><img align="center" src="https://i.ibb.co/TTccSCF/1687982917383.jpg" alt="1687982917383" border="0" alt="SpaceGandolf" height="80" width="80" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
