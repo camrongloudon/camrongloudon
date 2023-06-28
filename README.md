@@ -21,7 +21,7 @@
 <a href="https://instagram.com/camron_glo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="camron_glo" height="30" width="40" /></a>
 <a href="https://medium.com/@cam'ron gloudon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cam'ron gloudon" height="30" width="40" /></a>
 
-<a href="" target="blank"><img align="center" src="https://drive.google.com/file/d/14e_fTGFhhYTQJmMkuytHkab9kgk1xhH0/view?usp=drive_link" alt="SpaceGandolf" height="40" width="40" />
+<a href="" target="blank"><img align="center" src="https://i.ibb.co/TTccSCF/1687982917383.jpg" alt="1687982917383" border="0" alt="SpaceGandolf" height="40" width="40" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
