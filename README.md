@@ -16,8 +16,6 @@
 <a href="https://linkedin.com/in/cam'ron gloudon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cam'ron gloudon" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/cam'ron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="cam'ron" height="30" width="40" /></a>
 <a href="https://fb.com/camron gloudon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="camron gloudon" height="30" width="40" /></a>
-<a href="https://instagram.com/camron_glo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="camron_glo" height="30" width="40" /></a>
-<a href="https://medium.com/@cam'ron gloudon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cam'ron gloudon" height="30" width="40" /></a>
 
 <a href="" target="blank"><img align="center" src="https://i.ibb.co/TTccSCF/1687982917383.jpg" alt="1687982917383" border="0" alt="SpaceGandolf" height="80" width="80" />
 </p>
