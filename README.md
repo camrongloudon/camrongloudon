@@ -1,13 +1,13 @@
 <h1 align="center">Hey, I'm Cam'ron</h1>
 <h3 align="center">I'm a passionate software developer learning new technoloy everyday!</h3>
 
-- 🌱 I'm currently learning Mandarin Chiense, always open to language partners, reach out to me on any social media platforms.
+- 🌱 I'm currently learning Mandarin Chinese, always open to language partners, reach out to me on any social media platforms.
 
-- I'm currently a student at **SBCS Global Learning Institute**
+- 🎓 Studying for MIT
 
-- 💬 Ask me about **python, html, css, javascript**
+- 💬 Ask me about _python, Data Science, Machine Learning_
 
-- 📫 How to reach me **gloudoncamron9@gmail.com**
+- 📬 Reach Out _gloudoncamron9@gmail.com_
 
 
 <h3 align="left">Connect with me:</h3>
@@ -21,4 +21,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+</a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
