@@ -5,7 +5,7 @@
 
 - 🎓 Studying for MIT
 
-- 💬 Ask me about -Python, Linux, Data Science, Machine Learning_
+- 💬 Ask me about _Python, Linux, Data Science, Machine Learning_
 
 - 📬 Reach Out _gloudoncamron9@gmail.com_
 
